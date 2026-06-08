@@ -5,6 +5,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selton-jeffeson-677b49166/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seltonjeffeson@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994934476)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://seltonjeff.github.io)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeltonJeff&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonJeff&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeltonJeff&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -13,6 +28,28 @@
 Engenheiro de software sênior com sólida trajetória em **arquitetura de software**, **desenvolvimento full-stack** e **liderança técnica**. Atualmente atuando como **Tech Lead & IT Head** na Beepay, com ampla experiência na criação de plataformas escaláveis, integração entre sistemas distribuídos e implementação de pipelines CI/CD em ambiente AWS.
 
 🎯 **Foco:** Performance, qualidade, boas práticas de engenharia e visão técnica estratégica.
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌟 [Team Connect](https://github.com/SeltonJeff/team-connect)
+**Open Source - Plataforma de Colaboração em Tempo Real**
+
+Uma plataforma moderna de gerenciamento de equipes e colaboração, construída com as melhores práticas de engenharia de software.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+- ✨ Arquitetura escalável e limpa
+- 🧪 Testes automatizados com Jest
+- 🔄 CI/CD com GitHub Actions
+- 📦 Docker & Containerização
+- 🎨 Design System moderno
+
+[⭐ Visite o Repositório →](https://github.com/SeltonJeff/team-connect)
 
 ---
 
@@ -129,6 +166,7 @@ Engenheiro de software sênior com sólida trajetória em **arquitetura de softw
 - **Telefone:** (84) 99493-4476
 - **LinkedIn:** [Selton Jeffeson](https://www.linkedin.com/in/selton-jeffeson-677b49166/)
 - **GitHub:** [@SeltonJeff](https://github.com/SeltonJeff)
+- **Portfolio:** [seltonjeff.github.io](https://seltonjeff.github.io)
 
 ---
 
