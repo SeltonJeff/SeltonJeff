@@ -9,15 +9,17 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Quick Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeltonJeff&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonJeff&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeltonJeff&theme=dark&hide_border=true)
+| Métrica | Valor |
+|---------|-------|
+| 👨‍💼 **Experiência** | 5+ anos |
+| 🏆 **Projetos** | 20+ entregues |
+| 🎓 **Formações** | 3 Pós-Graduações |
+| 🌟 **Foco** | Full-Stack & Arquitetura |
+| 💻 **Stack** | TypeScript, React, Node.js, AWS |
 
 </div>
 
